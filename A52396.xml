@@ -1,0 +1,744 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Norffs president of persecution (unto banishment) against some of the innocent people call'd Quakers, for meeting in the name and fear of the Lord, or, A relation of the proceedings of the court at the quarter sessions holden at the castle in Norwich the 20 day of the 12. moneth call'd February, 1665 where Francis Cory, Recorder of the city of Norwich sat for judge with John Crafts, Dean of Norwich, with other justices of the peace (so called), upon Henry Kittle Jun., Edmund Rack, Richard Cockerel, and Robert Elden, call'd Quakers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52396</idno>
+            <idno type="STC">Wing N1229</idno>
+            <idno type="STC">ESTC R15877</idno>
+            <idno type="EEBO-CITATION">12855536</idno>
+            <idno type="OCLC">ocm 12855536</idno>
+            <idno type="VID">94627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 722:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Norffs president of persecution (unto banishment) against some of the innocent people call'd Quakers, for meeting in the name and fear of the Lord, or, A relation of the proceedings of the court at the quarter sessions holden at the castle in Norwich the 20 day of the 12. moneth call'd February, 1665 where Francis Cory, Recorder of the city of Norwich sat for judge with John Crafts, Dean of Norwich, with other justices of the peace (so called), upon Henry Kittle Jun., Edmund Rack, Richard Cockerel, and Robert Elden, call'd Quakers.</title>
+                  <author>Kittle, Henry, defendant.</author>
+                  <author>Rack, Edmund, d. 1682, defendant.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A letter to the judges of the assizes on last 2 p. signed by the defendants: Edm. Rack, Henry Kittlesmior, Robert Elden, Richard Cockerel.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94627:1" rendition="simple:additions"/>
+            <p>THE <hi>NORFFS PRESIDENT</hi> OF PERSECUTION <hi>(<g ref="char:V">Ʋ</g>NTO BANISHMENT)</hi> Againſt ſome of the Innocent People CALL'D QUAKERS, FOR Meeting in the Name and fear of the Lord.</p>
+            <p>OR, A RELATION OF THE Proceedings of the Court at the Quarter Seſſions holden at the Caſtle in <hi>Norwich</hi> the 20 day of the 12. Moneth call'd <hi>February,</hi> 1665. where <hi>Francis Cory</hi> Recorder of the City of <hi>Norwich</hi> ſat for Judge with <hi>John Crafts</hi> Dean of <hi>Norwich,</hi> with other Juſtices of the peace (ſo call'd) upon <hi>Henry Kittle</hi> Jun. <hi>Edmund Rack, Richard Cockerel,</hi> and <hi>Robert Elden,</hi> call'd Quakers.</p>
+            <p>Printed in the Year 1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94627:2" rendition="simple:additions"/>
+            <head>The <hi>Norffs</hi> Preſident of Perſecution, &amp;c.</head>
+            <p>FIrſt, the Priſoners preſented a Letter to the Grand Inqueſt (be<g ref="char:EOLhyphen"/>cauſe they underſtood they were to paſs upon them and not to hear them perſonally to make their defence) to ſtate the Inno<g ref="char:EOLhyphen"/>cency of their cauſe to them. Which was as followeth,
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Friends,</salute>
+                     </opener>
+                     <p>We who are Priſoners in the Caſtle, who are (reproachfully) call'd <hi>Quakers,</hi> underſtanding that you as the body of the County are to paſs upon us, ei<g ref="char:EOLhyphen"/>ther to be our Accuſers or Excuſers; and that our Cauſe muſt paſs through your hands without hearing of us perſonally to make our defence, We de<g ref="char:EOLhyphen"/>ſire to lay theſe few Conſiderations before you.</p>
+                     <p>
+                        <hi>Firſt,</hi> That the Seſſions lately paſt were ſufficiently known, and that our Proſecutors were here; and if they had any thing juſtly to have charg'd upon us they ought to have proceeded then.</p>
+                     <p>
+                        <hi>Secondly,</hi> That we being Priſoners at Common Law (or a penal Statute) ought if any thing had been charged upon us to have been tri<g ref="char:EOLhyphen"/>ed forthwith at the next general Seſſions and Goal delivery; and that by the ordinary Jury that ſerved upon other Priſoners; and not to have a particular Seſſions and Jury picked on purpoſe for us; but if no<g ref="char:EOLhyphen"/>thing had been charged upon us, we ought to have enjoyed the benefit of the Goal delivery.</p>
+                     <p>
+                        <hi>Thirdly,</hi> We have cauſe to believe that our Proſecutors have miſin<g ref="char:EOLhyphen"/>formed the Court, thereby to procure an Adjournment, that ſo either they might bring ſome new evidence, or procure ſome other to joyne with them that ſo their evidence might appear more ſpecious.</p>
+                     <p>
+                        <hi>Fourthly,</hi> We deſire you to take notice that the Records for the firſt and ſecond Convictions (ſo call'd) were not made in Parchment, and ſo no Records in Law. And thoſe Writings that were made were not made under Seal (as we remember) and ſo no evidence or conviction in Law: And if any other then ſuch ſhall be preſented to you we deſire you to require proof of them.</p>
+                     <p>
+                        <hi>Fifthly,</hi> At the ſecond Conviction (ſo call'd) we conceive there were not a ſufficient number of perſons to bring us under the Act, although an exerciſe in Religion had been proved againſt us in other manner then is allowed by the Liturgy, or practice of the Church of <hi>England.</hi>
+                     </p>
+                     <p>
+                        <pb n="2" facs="tcp:94627:3" rendition="simple:additions"/>
+                        <hi>Sixthly,</hi> We deſire you to conſider the third Provizo in the Act; which ſaith, <hi>that no perſons ſhall be puniſhed for any offence againſt this Act, unleſs ſuch offenders be proſecuted for the ſame within three Moneths after the offence committed.</hi> And there being above three Moneths paſſed ſince we were charged and committed as offenders, whether we be not to be diſchar<g ref="char:EOLhyphen"/>ged by the ſaid Provizo in the Act: For it doth not ſay you ſhall be proſecuting ſuch offenders within three Moneths but that ſuch offen<g ref="char:EOLhyphen"/>ders ſhall be proſecuted within three Moneths, or elſe not to be puniſh<g ref="char:EOLhyphen"/>ed for any offence againſt this Act.</p>
+                     <p>
+                        <hi>Seventhly,</hi> We deſire you carefully to examine ſuch Witneſſes as ſhall be brought in againſt us to prove what Religious Worſhip they ſee us in the exerciſe of? and whether it were contrary to what the Liturgy of the Church of <hi>England</hi> doth allow of: For the Law is not againſt meeting to worſhip God according to the Liturgy; (which ſaith) (See Communion upon the Feaſt of <hi>Trinity</hi> ſo call'd) <hi>It is very meet, right, and our bounden duty that we ſhould at all times and in all places perform duty to God.</hi> But againſt ſuch as (under pretence to meet to worſhip) contrive Inſurrections as late experience had ſhewed. Which can never be proved againſt us.</p>
+                     <p>Theſe things we deſire to lay before you, not with any deſire or in<g ref="char:EOLhyphen"/>tent to divert you from juſtice and equity, but that you may in ſome meaſure underſtand the innocency of our Cauſe; and where the Law provide for our Acquital you might not be our accuſers, but that juſtice and equity may run in its right chanel, and judgment and loving kindneſs and Righteouſneſs may be exerciſed by you, in which the Lord doth delight, and ſo the Bleſſing of the Lord may be upon you: Which is the deſire of us who ſeek the good of all Men,</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Edmund Rack.</hi>
+                              </item>
+                              <item>
+                                 <hi>Richard Cockerele.</hi>
+                              </item>
+                              <item>
+                                 <hi>Henry Kittle</hi> Junior.</item>
+                              <item>
+                                 <hi>Robert Elden.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <div type="account">
+               <head>A Relation of the Proceedings of the Court, &amp;c.</head>
+               <p>THe Court being ſet the Priſoners were call'd to the Bar. The <hi>Clerk</hi> read the Inditement, the ſubſtance of which was for being at an unlawful Meeting under colour and pretence of exerciſe in Religi<g ref="char:EOLhyphen"/>on, contrary to the Liturgy of the Church of <hi>England</hi> with force and aimes contrary to the peace of our Soveraign Lord the King, his Crown and Dignity, and againſt the Statute in that caſe made and provided.</p>
+               <sp>
+                  <pb n="3" facs="tcp:94627:3" rendition="simple:additions"/>
+                  <speaker>Clerk.</speaker>
+                  <p>What ſay you, Guilty or not Guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Priſoner.</speaker>
+                  <p>I deſire to be heard a few words.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>You muſt firſt plead.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I deſire to be heard; I ſtand here as a Priſoner, and not barely as a Priſoner, but as a free born <hi>Engliſhman,</hi> and conceive I have right to all the Privileges of the Law of <hi>England</hi> which have a tender care of the life of Man, and alſo their liberty. Now I conceive we have had very hard meaſure that we have been Priſoners almoſt four Moneths, and the Seſſions paſt over and we not call'd. I deſire to know what was the rea<g ref="char:EOLhyphen"/>ſon that the Seſſions paſt over and we not call'd as well as other Priſoners?</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>You muſt plead.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I deſire to know a piece of a Reaſon why we might not enjoy the benefit of the Goal delivery as other Priſoners did?</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>The Court is not bound to give you a Reaſon.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>You muſt plead</hi> (the Queſtion is but ſhort) <hi>Guilty or not Guilty?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I deſire to know why we were not tryed the laſt Seſſions?</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>It is the ſame Seſſions, will you plead?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>But I deſire ſome information about the Inditement that I may know what I am to plead to. What do you mean by the Liturgy of the Church of <hi>England,</hi> for I underſtand I am indited for an exerciſe not allowed by the Liturgy?</p>
+               </sp>
+               <sp>
+                  <speaker>The Dean.</speaker>
+                  <p>
+                     <hi>By the Liturgie is meant the Common Prayer Book with its Appurtenances.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Doth not the Common Prayer allow of that which it layeth down as a duty? And which it ſeems to pray for?</p>
+               </sp>
+               <sp>
+                  <speaker>The Dean.</speaker>
+                  <p>
+                     <hi>The Common Prayer doth not allow People to Worſhip God but by it.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>You know the Penalty, will you plead or not?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I deſire to be heard for my Information.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>When you have pleaded you ſhall be heard.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Well then, I am content to plead: I am not guilty of this In<g ref="char:EOLhyphen"/>ditement as it is laid down in matter and form.</p>
+               </sp>
+               <sp>
+                  <speaker>Another Priſ.</speaker>
+                  <p>I am not guilty of the breach of any juſt Law.</p>
+               </sp>
+               <sp>
+                  <speaker>A Juſtice</speaker>
+                  <stage>to a Priſoner.</stage>
+                  <p>
+                     <hi>I believe you will not tell a lie will you?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I did not come hither for that purpoſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Juſtice.</speaker>
+                  <p>
+                     <hi>Did you not wilfully meet in oppoſition to this Law?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I never met in oppoſition to the Law, neither I believe did I do any thing juſtly to bring me within compaſs of the Law.</p>
+               </sp>
+               <stage>Then the Juſtice ſat down and ſaid no more to the Priſoner.</stage>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I deſire to have ſome words with <hi>John Crofts</hi>
+                     <stage>(who was the Dean)</stage>
+concerning the Liturgy what it allowes of?</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>The Court cannot wait upon you.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="4" facs="tcp:94627:4" rendition="simple:additions"/>
+                  <speaker>Priſ.</speaker>
+                  <p>
+                     <hi>F. Cory</hi> didſt thou not promiſe me that when I pleaded I ſhould be heard? haſt thou ſo ſoon forgot thy promiſe, is thy memory ſo ſhallow?</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Well, well, you are very ſaucy.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Dean.</speaker>
+                  <p>
+                     <hi>I would willingly have ſome conference with you but privately.</hi>
+                     <note n="*" place="margin">And why not publiquely?</note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>With all my heart. Another Priſoner ſaid we have been here almoſt 16. weeks and none of you would come at us, and you could not chooſe but be ſenſible we were here.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>You are to come upon your trial in the Afternoon, therefore pre<g ref="char:EOLhyphen"/>pare for your trial.</hi>
+                  </p>
+               </sp>
+               <stage>The Court adjourn'd till two of the Clock.</stage>
+               <stage>About four of the Clock the Court ſat, and the Priſoners were call'd to the Bar, and the Jury call'd to be ſworn.</stage>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Let the Jury come to the Bar that we may ſee them, and they ſee us.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>The Jury is well enough.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>But we cannot know them from the people, neither can they well hear us, they ſtand ſo throng'd among the people; let us have the privilege that Thieves and Murtherers have, to have the Jury come to the Bar, that God and Man may hear and ſee their Judgment, whether it be juſt and equal or not.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>You muſt not preſcribe Rules to the Court.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>You are very bold.</hi>
+                     <note n="(a)" place="margin">We may ſee In<g ref="char:EOLhyphen"/>nocency is bold in this Age alſo.</note>
+                  </p>
+                  <p>The Jury was ſworn, and the Clerk began to read the Inditement.</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>That is none of our<note n="(b)" place="margin">What Juſtice could be expected from ſuch as will change an Indite<g ref="char:EOLhyphen"/>ment againſt Priſon<g ref="char:EOLhyphen"/>ers?</note> Inditement.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>It is your Inditement.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>But it is not the ſame that we pleaded to in the Forenoon.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>How do you know that it is not the Indite<g ref="char:EOLhyphen"/>ment?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I ſee it, and know it's not the ſame;<note n="(c)" place="margin">By theſe reaſons it will appear 1. the colour of the Parch<g ref="char:EOLhyphen"/>ment the 1ſt. Indite<g ref="char:EOLhyphen"/>ment being a courſe Parchment with a flaw in the back, and the Writing much obliterated; &amp; the 2. Inditement was a clear Parchment and a fair hand writing without obliterations or rac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ings, and lon<g ref="char:EOLhyphen"/>ger by 2. or 3. fingers breadth in our apprehenſion; 2ly. the day of the Conviction was altered for the firſt Inditement, ran the 28. of <hi>Feb.</hi> and the ſecond was dated the 22. of <hi>February.</hi>
+                     </note> It's not the ſame Parchment, we are abuſed: Jurymen, take notice the Inditement is altered.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>It is your Inditement.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Let it be proved, was ever the like ſeen that we ſhould have our Inditement altered after we have Pleaded: Is this Law?</p>
+               </sp>
+               <sp>
+                  <pb n="5" facs="tcp:94627:4" rendition="simple:additions"/>
+                  <speaker>Judge.</speaker>
+                  <p>Go one.</p>
+               </sp>
+               <stage>So the Clerk read the Inditement.</stage>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>Do you deſire to have the Records read?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Yes by all meanes, and proved.</p>
+               </sp>
+               <stage>Part of the Records were read (and the Clerk ſaid, there is enough read to ſerve your turns) and two Witneſſes ſworn.</stage>
+               <sp>
+                  <speaker>Judge to the Witneſs,</speaker>
+                  <p>
+                     <hi>Did you ſee the Records ſealed?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Witneſs.</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>When?</p>
+               </sp>
+               <stage>The Witneſs ſilent.</stage>
+               <sp>
+                  <p>
+                     <stage>But the Clerk anſwered,</stage> the Court takes no<note n="(d)" place="margin">The Court takes no notice of that which makes for the benefit of the Pri<g ref="char:EOLhyphen"/>ſoner, what manner of Councel will they be then for the Priſoner? for they will ſay ſometime to Priſoners we are to be your Councel; as we know they ſhould according to Law, if they could keep to the Law, and inform the Priſoner what makes for his benefit.</note> notice of that the Records are ſealed now.</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I deſire the Court to ask the Witneſs when theſe Records were ſealed.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>It is no matter if they were Sealed but yeſterday.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <stage>Then one of the Witneſs reply<g ref="char:EOLhyphen"/>ed,</stage>
+                  <p>I ſaw Mr. <hi>Kendle</hi> ſeal them on Friday laſt.</p>
+               </sp>
+               <stage>The Priſoner preſt it upon the other Witneſs to know when he ſaw them ſealed; but he would not ſpeak at all to it.<note n="(e)" place="margin">But Witneſs ſhould teſtifie the whole truth.</note>
+               </stage>
+               <sp>
+                  <speaker>Clerk to the Jury,</speaker>
+                  <p>
+                     <hi>You ſee we have proved the two firſt Convictions. Now to the Third.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>They are not proved yet.</p>
+               </sp>
+               <stage>The Witneſs call'd and ſworn to prove the third Conviction. Capt. <hi>Morris Shelton</hi> gave in evidence that he received a Letter from his Couzen <hi>Wright</hi> that there was an unlawful Aſſembly at <hi>Edm. Rack's</hi> of <hi>Kilverſton.</hi> And ſo he came accor<g ref="char:EOLhyphen"/>ding to his duty, and found about 14. Perſons in the Houſe, fitting to<g ref="char:EOLhyphen"/>gether in a Malencholy poſture; but neither ſaw them do any thing, nor heard them ſay any thing.<note n="(f)" place="margin">O ſad, what a lamentable age we live in, that a Judge ſhould paſs ſentence upon men to be baniſht for 7. years out of their Native Land for neither ſaying any thing, nor doing any thing.</note>
+               </stage>
+               <stage>The other Witneſs ſaid he was not within in the Room but looked in at the door, and ſaw them ſit there, but neither heard them ſay any thing, nor ſee them do any thing.</stage>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Wherefore came you thi<g ref="char:EOLhyphen"/>ther? what was your intents?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Ask the Witneſs, &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Can they tell your intent.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Ask them, try if they can't I may.</p>
+               </sp>
+               <stage>Another Witneſs ſworn, <hi>Tho. Wright,</hi> one of the<note n="(g)" place="margin">Is this legal proceedings that one of the Juſtices that ſat in the Court ſhold be a Witneſs againſt the Priſoners? and does the Law intend this alſo? for ſhame let not theſe proceedings be <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>thered up<g ref="char:EOLhyphen"/>on the Law of <hi>England.</hi>
+                  </note> Juſtices
+<pb n="6" facs="tcp:94627:5" rendition="simple:additions"/>
+(ſo call'd) that ſat in the Court, and gave in a paper call'd our Exami<g ref="char:EOLhyphen"/>nation, which ſaid we confeſt we<note n="*" place="margin">And what is that all the Evidence you have againſt them to baniſh them 7<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> years out of their Native Land for being met in the Name and fear of the Lord? Is this become a crime in our <hi>Engliſh</hi> Nation? O horrable, it is too hear, and it even grieves us to think theſe things ſhould be related; for ſhame let not theſe things be told in other Nations. And let there be warnings taken by the Judges and Juſtices not to pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſiſt any more, in bringing the guilt of thus ſad<g ref="char:EOLhyphen"/>ly oppreſſing the Innocent upon them, and our <hi>Engliſh</hi> Nation; f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r by ſuch un<g ref="char:EOLhyphen"/>juſt proceedings will it be brought into more miſery, diſhonour, and a reproach among other Nations.</note> met in the name and fear of the L<hi rend="sup">d</hi>.</stage>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>That is none of my Exa<g ref="char:EOLhyphen"/>mination.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>The Juſtice have ſworn it, that's enough.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Then he have done me the more wrong, for I never yielded to an Examination, but alwayes ſent them to the Witneſſes: And if any other ſaid ſo, it ought not to be put upon my head. (If that be a Crime) Is <hi>Rob. Kedingtons</hi> hand to it?</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Then they have done me the more wrong.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge to the Jury,</speaker>
+                  <p>
+                     <hi>You ſee the whole matter of the Inditement is proved.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge to the Priſoners,</speaker>
+                  <p>
+                     <hi>What can you ſay for your ſelves?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſoner</speaker>
+                  <stage>to the Jurymen.</stage>
+                  <p>I ſtand here indited for a threefold Crime; firſt as being twice Con<g ref="char:EOLhyphen"/>victed for being at an unlawful Aſſembly at times mentioned in the In<g ref="char:EOLhyphen"/>ditement; and then after ſuch Convictions being at a third unlawful Aſſembly mentioned in the Inditement. Now I would deſire you ſeri<g ref="char:EOLhyphen"/>ouſly to conſider the buſineſs; and firſt of the firſt, the matter charged againſt me was upon the 31. of <hi>Jan.</hi> which is more then a year ago, the evidence is the Record, now one of the Witneſs have ſworn poſſitively that he ſaw the Record ſealed laſt Friday, (as he calls it) now if I had committed an offence a year ago, yet I was not Convicted in Law till laſt Friday: look upon the Act, <hi>Which Records ſo made ſhall be a Convicti<g ref="char:EOLhyphen"/>on in Law.</hi> So as I could not in Law be guilty of a firſt offence till con<g ref="char:EOLhyphen"/>victed and not convicted till the Records were ſealed, for the Records are the Conviction, and no Conviction till ſealed: For the Words of the Act are, <hi>to make a Record of ſuch an offence under their hands and ſeals.</hi> And I am not indited here for being at an unlawful Aſſembly but for be<g ref="char:EOLhyphen"/>ing convicted for being at an unlawful Aſſembly. Now Jurymen take notice that the matter charged in the Inditement differ from the proof more then a whole year: A groſs miſtake, is it poſſible that men ſhould ſo groſly miſtake as to charge us with an offence, and fail in their proof more then a whole year, ſo as I cannot poſſibly in Law be found guilty
+<pb n="7" facs="tcp:94627:5" rendition="simple:additions"/>
+of this firſt offence by this evidence if you regard either Law, Equity, or Conſcience.</p>
+                  <p>Now as to the ſecond offence I need not ſay much; I cannot commit a ſecond offence till I be convicted of a firſt, which according to the evidence was not till Friday laſt. Now we having been in Priſon almoſt four Moneths, how could I poſſibly commit a ſecond or third offence when convicted but laſt Friday (ſo call'd) for a firſt, conſider it Jurymen. The Words of the Statute being <hi>that if ſuch Offender ſo convicted as a<g ref="char:EOLhyphen"/>foreſaid ſhall at any time again commit the like offence.</hi> So as it is plain to every man that will but uſe a grain of underſtanding, that we cannot be guilty of a ſecond offence till convicted of a firſt. Thus you ſee plainly Jurymen this firſt part of the Inditement daſht, it is gone, yea it is quite blown away in Law. But now leaſt you ſhould ſtumble at the third, upon which the Court ſeems to lay the greateſt ſtreſs, becauſe there is Witneſs <hi>(Viva voce)</hi> which ſeems to teſtifie ſomething. I ſhall ſpeak ſomething as to that, and to this end I deſire you to conſider the Act, and firſt of the Title, <hi>An Act to prevent Seditious Conventicles.</hi> Here you ſee the Act is not to prevent all Meetings but Seditious Meetings, now what Sedition is, I leave it to the Court to define, to whom it doth be<g ref="char:EOLhyphen"/>long. There might be ſomething ſpoken to the Preamble, but I paſs by that and come to the Act. <hi>Be it enacted that if any perſon being a Subject of this Realm ſhall be preſent at any Aſſembly, Conventicle, or Meeting, &amp;c.</hi> Here you ſee Jurymen to whom the Act extends, it is to every one indi<g ref="char:EOLhyphen"/>finately, as well one as another, if they be Subjects of the Realm; yea it reacheth from the Prince that ſiteth next to the Throne to the Beg<g ref="char:EOLhyphen"/>gar that ſeteth upon the Moulehill. I ſpeak this to take off that brain<g ref="char:EOLhyphen"/>leſs opinion that have poſſeſſed the heads of Thouſands that there is an Act made againſt the Sectaries, or ſuch like, when as the Law reacheth to all alike, if they do any thing that comes under it; yea, you your ſelves or the Court are as much concerned in the Act as we, if you do any thing that comes under it. Now it is to be conſidered what a man muſt or may do to bring him under the Act, for this look upon the Statute, <hi>Be it enacted, &amp;c. that if any perſon, &amp;c. ſhall be preſent at any Aſſembly, &amp;c. under colour or pretence of any Exerciſe of Religion in other manner then is allowed by the Liturgie, &amp;c.</hi> Here Jurymen you may ſee the Fact that can be a Tranſgreſſion of the Law which is to be preſent at a Meeting under a pretence of ſome Exerciſe in Religion, in other manner then is allowed by the Liturgy, &amp;c.</p>
+                  <p>Now Jury you ſee the Streſs of the Matter lyeth here, in the <hi>Exerciſe.</hi>
+                  </p>
+                  <stage>Here the Court ſtood up as in an uproare, calling to the Jury to go forth; As appearing, loath the Priſoners Rational Plea ſhould take place in them.</stage>
+                  <p>
+                     <pb n="8" facs="tcp:94627:6" rendition="simple:additions"/>The Act is not againſt Meetings barely as Meetings, for that would be a <hi>Rediculum Caput,</hi> that men could not be together but they muſt be Tranſgreſſors, for you your ſelves which paſs upon us to day, If you have an envious Neighbour or great Man that can but ſpie out ſix or a douzen of you together, may come your ſelves upon trial for your Li<g ref="char:EOLhyphen"/>berty: If being together barely be a Tranſgreſſion; but it is plain by the Letter of the Law that it is the <hi>Exerciſe,</hi> or pretence of <hi>Exerciſe,</hi> that is the Tranſgreſſion; ſo as if there be no particular Exerciſe pro<g ref="char:EOLhyphen"/>ved againſt us, (as here is not) ye ought not to find us guilty for, for it is a common Maxime among Law men, that <hi>Generals in Law ſignifie no<g ref="char:EOLhyphen"/>thing,</hi> but it muſt be the particular matter. As if a man were indited for Treaſon, if the Witneſs come to prove Treaſon in general, and can<g ref="char:EOLhyphen"/>not prove the particular matter, be it words or otherwiſe; what Jury could poſſible be ſo mad as to find this man guilty? And ſo likewiſe of Fellony, and ſhall not we have as much benefit as Traytors and Fellons, and Murtherers?</p>
+               </sp>
+               <stage>The Court hin<g ref="char:EOLhyphen"/>dered the Priſoner from pleading fur<g ref="char:EOLhyphen"/>the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, by the ordering the Jury to go for<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</stage>
+               <sp>
+                  <speaker>Judge to the Jury,</speaker>
+                  <p>
+                     <hi>You ſee the whole Matter of the Inditement is proved, they have confeſt it upon Examina<g ref="char:EOLhyphen"/>tion, and I have askt them ſeveral times what buſineſs they have there? and they will not anſwer; the Law intends them guilty in aſmuch as they were found together, and will not give a reaſon wherefore they were met.</hi>
+                  </p>
+               </sp>
+               <stage>So they preſt upon the Jury to go forth. The Foreman of the Jury call'd for the Examination and looked upon it, and return'd it to the Court again.</stage>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Jurymen hear me, I have a great deal more to offer; what will you not hear me, I have ſomething to offer concerning the Examination: was there ever ſuch a Jury as will not hear me; Hear the other Priſoners what they have to ſay in their defence, they have not ſpoken yet.</p>
+               </sp>
+               <sp>
+                  <speaker>The other Priſoners,</speaker>
+                  <p>Hear us, what will you go upon us and not hear us ſpeak?</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Well if you will not hear us, the Lord judge between you and us; and remember the eye of the Lord is upon you, and ſeeth the intent of your hearts, and if you paſs upon us thus and condemn us, the Lord God will aſſuredly require it at your hands.</p>
+               </sp>
+               <stage>The Jurymen went forth, and in a little time returned.</stage>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>Are you all agreed of your Verdict?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jury.</speaker>
+                  <p>All but one Man.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Why do not he agree?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="9" facs="tcp:94627:6" rendition="simple:additions"/>
+                  <speaker>Jury.</speaker>
+                  <p>He deſires to give his Reaſons to the Court.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>No, no, you muſt all agree.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Swear them another, Bailiffe, and let them be ſhut up, and have neither meat, drink, fire nor Candle till they be agreed.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <p>
+                     <stage>Some in the Court ſaid to the Priſoners (when the Jury was gone out)</stage> why did you not anſwer wherefore you were met, he have askt you ſeveral times, and you will not anſwer?</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I was not aware of his Asking me ſo often, if I had I ſhould have given him an anſwer; I can give him an Anſwer yet if he will hear me.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Well, what is it?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>We are Chriſtian men, and the Lord hath begotten us into one life, and we love one another, and deſire often to be together, that all Men may know and ſee that we love one another.</p>
+               </sp>
+               <stage>The Jury went forth again, and ſoon after the Court ſent after them to haſten them to agree; and ſhortly the Jury return'd again and brought them in all Guilty.</stage>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>What of the whole Inditement?</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>Yes, yes, of the whole.</hi>
+                  </p>
+               </sp>
+               <stage>The Priſoners were return'd to Priſon again, and about half an hour after were commanded again to the Bar.</stage>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>All Honour and Glory be given to the Lord.</p>
+               </sp>
+               <stage>Judge beginning a long Oration of the Mercyfulneſs of the Law.</stage>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>The Law of God is a Mercyful Law.</p>
+                  <p>(It was in another Priſoners heart to ſay) but the Executioners of the Law are very unmercyful.</p>
+               </sp>
+               <stage>And when the Priſoners perceived the Judge crept in to ſentence, one cried, hold, hold, I have ſomething to offer before Sentence be paſt, as to arreſt of Judgment, but the Judge went on. Then the Priſoners cried again, hold, hold, if you will not hear me, take my Exceptions and read them, and ſo held his Paper forth; but the Judge went on and paſſed Sentence, <hi>that they ſhould be carried from this place to <hi>Yarmouth,</hi> and from thence to be Tranſported to the</hi> Barbados <hi>for ſeven years.</hi> Then one of the Priſoners ſaid, But where ſhall the Lyer and the Drunkard go? And when he had paſſed Sentence askt a Priſoner, ſaying, <hi>Come what have you now to proffer.</hi>
+               </stage>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I had ſomething to offer before Sentence was paſt, as to arreſt in Judgment, but thou wents on and would not hear.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Now it is too late, Judgment is paſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I call'd before, and offered my Exceptions, but thou wouldſt not ſtay.</p>
+               </sp>
+               <sp>
+                  <pb n="10" facs="tcp:94627:7" rendition="simple:additions"/>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Let us hear what they are?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>Firſt, that the two firſt Offences were not Recorded under the Hands and Seals of the two Juſtices of Peace before the 29th. of <hi>October</hi> laſt, the time mentioned in the Inditement for the third offence, but ſince this preſent Seſſions, namely upon Friday laſt, ſo that the perſons concerned did not ſtand convicted of the two firſt offences urged againſt them at the time limited for the laſt offence.</p>
+                  <p>Secondly, That the Inditement upon which they went was not the ſame to which the Priſoners did plead.</p>
+                  <p>Thirdly, That the Priſoners ought not to be puniſhed for any offence againſt the late Act becauſe above three Moneths are paſſed.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>But you were committed preſently in order to your Proſe<g ref="char:EOLhyphen"/>cution.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſoner.</speaker>
+                  <p>But we were to have been Proſecuted, and not Proſecuting.</p>
+               </sp>
+               <sp>
+                  <speaker>Clerk.</speaker>
+                  <p>
+                     <hi>Your Commitment was your Proſecution.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>That could not be by the Judges own words, for he ſaid, we were committed in order to Proſecution; and if in order to Proſecuti<g ref="char:EOLhyphen"/>on then it could not be the Proſecution its ſelf.</p>
+               </sp>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>A POSTSCRIPT.</head>
+            <p>AS to the Courts proceedings againſt the Priſoners, The unrea<g ref="char:EOLhyphen"/>ſonableneſs and unjuſtneſs thereof, is ſo apparent and will ſo plainly appear to every indifferent and impartial Reader, that little need be paraphraſed upon it, to manifeſt that ſpirit of envy and perſe<g ref="char:EOLhyphen"/>cution which thus rigorouſly, and cruelly ſhewed it ſelf againſt inno<g ref="char:EOLhyphen"/>cent Perſons; even to baniſh or ſeparate them from their Native Countries and Relations. We never yet knew any Law extant or in being, that Men ſhould be reckoned ſuch deep Offenders, for meeting together in a Chriſtian ſpirit; ſingly and ſpiritually to wait upon and worſhip God, as the intent of our Meeting is.</p>
+            <p>And where the evidence was, that they were neither ſaying, nor doing any thing; and yet for this, thus ſeverely to be ſentenced by the
+<pb n="11" facs="tcp:94627:7" rendition="simple:additions"/>
+Judge, whoſe prejudice and enmity againſt divers of our Friends in <hi>Norwich,</hi> in perſecuting of them has ſo much appeared, that little better then what he has done againſt the Priſoners could be expected; nor yet from the <hi>Deane</hi> who is ſo deeply concerned with his Brether<g ref="char:EOLhyphen"/>en of the Clergie, who make uſe of the Magiſtrates as their ſervants, to terrifie and compell People to come under their worſhip and Cere<g ref="char:EOLhyphen"/>monies, and to worſhip by their Liturgie; but many are gathered out from them by the Power of the Lord God; and come to worſhip and ſerve him in the newneſs of the ſpirit, and the ſpirit of Prayer and Supplication being poured forth, wherein the People of God pray to him, and which Spirit ſometime intercedes with ſighes and groans which cannot be uttered, ſo this is not to be limited to an impoſed form of prayer, nor to Mens wills; who in Anti-Chriſts ſpirit go a<g ref="char:EOLhyphen"/>bout to hinder and limit the ſpirit of truth, and to keep the Creature from the freedome of it, as the <hi>Deane</hi> in his aſſerting <hi>that the Common Prayer does not allow People to worſhip but by it;</hi> which is a very ſtrange and unreaſonable doctrine, and appeares both contrary to the Common-Prayer-Book, and the Prieſts practiſe; for the Common Prayer-Book, or allowance of the Liturgie extends further then the Biſhops and Deans allowance, for that it allows of the Scriptures, and that they are written for our Learning, (and ſo are to be practiſed and fulfilled by us) and of the Worſhip of God, <hi>at all times, and in all places;</hi> and therefore they had need to conſi<g ref="char:EOLhyphen"/>der their Liturgie a little better, and peruſe the ſeveral <hi>Collects</hi> and <hi>Epiſtles</hi> in it, and ſee how the Scriptures is both allowed of, and made uſe of therein, and conſequently how that way and Worſhip which the Scriptures own (which was before the Liturgie was) is al<g ref="char:EOLhyphen"/>lowed of by the Liturgie, which how the <hi>Deans</hi> Aſſertion and the Liturgie herein ſhould hang together, does not appear whiles he would make the Common-Prayer allow of no Worſhip but by it ſelf; which alſo does contradict and diſallow of his own Generation the Prieſts when they uſe a long Prayer before Sermon, which is not expreſt in the Common Prayer-Book; and beſides divers particular occaſions
+<pb n="12" facs="tcp:94627:8" rendition="simple:additions"/>
+of Praying to God many times do and have fallen out, which are not mentioned in the Common-Prayer; as alſo it doth not follow that the Common-Prayer diſallowes of all manner of Worſhiping that is not by it ſelf becauſe not in its own expreſs form, for diverſities of things where no prohibition is, does not diſallow one of another, becauſe they are divers in the manner and form of them.</p>
+            <p>Much might be ſaid in this particular to ſhew the abſurdity and ignorance of the <hi>Dean</hi>'s Aſſertion, but whiles we know the leadings of the Spirit of Truth, and the Worſhip of God therein for which many of us at this day ſuffer; We muſt not be tyed to their allowance in Worſhip, who by their wayes and proceedings againſt the Innocent have as much as in them lies, oppoſed, limited and withſtood the Spirit and Truth of God; which will outlive all their enmity and cruelty againſt the Righteous.</p>
+            <p>
+               <hi>Here followeth a Letter ſent to the Judges of the Aſſizes holden at</hi> Thetford, <hi>from the Priſoners aforeſaid, to ſpread be<g ref="char:EOLhyphen"/>fore them the illegal Proceedings againſt them; ſo that Ignor<g ref="char:EOLhyphen"/>ance of Injuſtice cannot be pleaded.</hi>
+            </p>
+            <div type="letter">
+               <pb n="13" facs="tcp:94627:8" rendition="simple:additions"/>
+               <head>To the Judges of the Aſſizes,</head>
+               <opener>Theſe in humility preſent,</opener>
+               <p>WEE whoſe Names are here under written, who lay under a ſen<g ref="char:EOLhyphen"/>tance of tranſportation; finding our ſelves grieved by the pro<g ref="char:EOLhyphen"/>ſeedings of the Seſſions holden at the Caſtle in <hi>Norwich,</hi> which we think were not reaſonable nor Legall. And not knowing the Law how wee may be releived; yet, thinking the Law have not left us without relief in caſe there be error in judgment, deſire in humility to ſpread theſe our grievances before you, who are judges of the Law, and know the Law, and are ſent as wee think, by the King, as well to relieve his ſub<g ref="char:EOLhyphen"/>jects that are oppreſſed, as to miniſter judgment.</p>
+               <p>Firſt, That we were indicted in the firſt part of the inditement for being convicted upon the 30. or 31. of <hi>January</hi> ſo called, in the ſix<g ref="char:EOLhyphen"/>teenth year of the King, which was almoſt half a year before the Act came in force, this wee think a miſtake and error in Law. But wee were forced to plead and could not make our exceptions to this and many other errours.</p>
+               <p>Secondly, That wee pleaded to an inditement in the forenoone; and in the afternoone had an other inditement brought forth againſt us to which wee had not pleaded, and were forced upon Tryall by it, al<g ref="char:EOLhyphen"/>though wee made our exceptions againſt it.</p>
+               <p>Thirdly, That wee have great cauſe to ſuſpect that the Jury, or moſt part of them, were not indifferent perſons but men pickd on pur<g ref="char:EOLhyphen"/>poſe.</p>
+               <p>Fourthly, That the Jury was commanded from the Bar before wee had made our defence; and we were hindred from our juſt (though plain) plea: And ſome of us not ſuffered to ſpeak at all in our de<g ref="char:EOLhyphen"/>fence.</p>
+               <p>Fifthly, That the Records produced to prove the firſt and ſecond convictions (ſo cal'd) were not made by the Juſtices of Peace, but by the Clark of the Peace or ſome other, by the procurement of <hi>Thomas Wright</hi> our proſecutour; and ſent to the Juſtices to ſeal but a week be<g ref="char:EOLhyphen"/>fore the Seſſions.</p>
+               <p>Sixthly, That <hi>Thomas Wright</hi> was both our Accuſer, Witneſs a<g ref="char:EOLhyphen"/>gainſt us, and one of the Judges upon the Bench, and alſo helpt the
+<pb n="14" facs="tcp:94627:9" rendition="simple:additions"/>
+Clerk to tranſlate the reading of our inditement, which we think un<g ref="char:EOLhyphen"/>reaſonable, if not Illegall</p>
+               <p>Seventhly, Wee believe the Act doth intend our relief by the third proviſo in regard wee were not proſecuted within three moneths.</p>
+               <p>Theſe things we deſired to lay before you in ſhort as part of our grievances, but if the Law do allow us to come before you as we are deſirous to doe, if you pleaſe to grant an <hi>Habeas Corpus</hi> for that pur<g ref="char:EOLhyphen"/>poſe wee hope to clear the matter more fully, or if the Law doe allow us any relief; we deſire the Benefit of it: but if not, then we quietly yield our bodies to the execution of the ſentence, and return (as pri<g ref="char:EOLhyphen"/>ſoners of hope) to the rock of our Salvation; where the Lord hath planted us, there to repoſe our ſelves, until the Lord ariſe and plead our cauſe, and bring forth our innocency in brightneſs; and our Righte<g ref="char:EOLhyphen"/>ouſneſs as the light that goeth forth.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Edm. Rack.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Kittleſmior.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Elden.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Cockerel.</hi>
+                        </item>
+                     </list>
+                  </signed>
+                  <dateline>
+                     <hi>From</hi> Norwich <hi>Caſtle</hi>
+                     <date>
+                        <hi>The</hi> 28<hi rend="sup">th</hi> 
+                        <hi>of the</hi> 12<hi rend="sup">th</hi> 
+                        <hi>moneth</hi> 1665.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
